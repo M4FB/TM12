@@ -1,0 +1,38 @@
+{
+    "logs": [
+        {
+            "outputFile": "org.tensorflow.lite.examples.audio.app-mergeDebugResources-38:/values-v16/values-v16.xml",
+            "map": [
+                {
+                    "source": "/home/m4fb/.gradle/caches/8.10.2/transforms/23389606d2fc393ea2352028d5227374/transformed/core-1.8.0/res/values-v16/values-v16.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "65",
+                        "endOffsets": "116"
+                    }
+                },
+                {
+                    "source": "/home/m4fb/.gradle/caches/8.10.2/transforms/39e8545c76825662721eead1d3f7ea43/transformed/appcompat-1.3.1/res/values-v16/values-v16.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "5",
+                        "endColumns": "12",
+                        "endOffsets": "223"
+                    },
+                    "to": {
+                        "startLines": "3",
+                        "startColumns": "4",
+                        "startOffsets": "121",
+                        "endLines": "6",
+                        "endColumns": "12",
+                        "endOffsets": "289"
+                    }
+                }
+            ]
+        }
+    ]
+}

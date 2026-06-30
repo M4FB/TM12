@@ -1,0 +1,118 @@
+[
+    {
+        "merged": "org.tensorflow.lite.examples.audio.app-debug-40:/mipmap-xxhdpi_ic_launcher_foreground.png.flat",
+        "source": "org.tensorflow.lite.examples.audio.app-main-42:/mipmap-xxhdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "org.tensorflow.lite.examples.audio.app-debug-40:/mipmap-hdpi_ic_launcher.png.flat",
+        "source": "org.tensorflow.lite.examples.audio.app-main-42:/mipmap-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "org.tensorflow.lite.examples.audio.app-debug-40:/navigation_nav_graph.xml.flat",
+        "source": "org.tensorflow.lite.examples.audio.app-main-42:/navigation/nav_graph.xml"
+    },
+    {
+        "merged": "org.tensorflow.lite.examples.audio.app-debug-40:/layout_controls_bottom_sheet.xml.flat",
+        "source": "org.tensorflow.lite.examples.audio.app-main-42:/layout/controls_bottom_sheet.xml"
+    },
+    {
+        "merged": "org.tensorflow.lite.examples.audio.app-debug-40:/drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
+        "source": "org.tensorflow.lite.examples.audio.app-pngs-36:/drawable-anydpi-v24/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "org.tensorflow.lite.examples.audio.app-debug-40:/mipmap-xhdpi_ic_launcher_foreground.png.flat",
+        "source": "org.tensorflow.lite.examples.audio.app-main-42:/mipmap-xhdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "org.tensorflow.lite.examples.audio.app-debug-40:/drawable_icn_chevron_up.png.flat",
+        "source": "org.tensorflow.lite.examples.audio.app-main-42:/drawable/icn_chevron_up.png"
+    },
+    {
+        "merged": "org.tensorflow.lite.examples.audio.app-debug-40:/mipmap-mdpi_ic_launcher_foreground.png.flat",
+        "source": "org.tensorflow.lite.examples.audio.app-main-42:/mipmap-mdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "org.tensorflow.lite.examples.audio.app-debug-40:/mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "org.tensorflow.lite.examples.audio.app-main-42:/mipmap-xhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "org.tensorflow.lite.examples.audio.app-debug-40:/layout_activity_main.xml.flat",
+        "source": "org.tensorflow.lite.examples.audio.app-main-42:/layout/activity_main.xml"
+    },
+    {
+        "merged": "org.tensorflow.lite.examples.audio.app-debug-40:/mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "org.tensorflow.lite.examples.audio.app-main-42:/mipmap-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "org.tensorflow.lite.examples.audio.app-debug-40:/mipmap-hdpi_ic_launcher_foreground.png.flat",
+        "source": "org.tensorflow.lite.examples.audio.app-main-42:/mipmap-hdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "org.tensorflow.lite.examples.audio.app-debug-40:/mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "org.tensorflow.lite.examples.audio.app-main-42:/mipmap-xxxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "org.tensorflow.lite.examples.audio.app-debug-40:/mipmap-mdpi_ic_launcher.png.flat",
+        "source": "org.tensorflow.lite.examples.audio.app-main-42:/mipmap-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "org.tensorflow.lite.examples.audio.app-debug-40:/mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "org.tensorflow.lite.examples.audio.app-main-42:/mipmap-xxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "org.tensorflow.lite.examples.audio.app-debug-40:/mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "org.tensorflow.lite.examples.audio.app-main-42:/mipmap-xxxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "org.tensorflow.lite.examples.audio.app-debug-40:/layout_item_probability.xml.flat",
+        "source": "org.tensorflow.lite.examples.audio.app-main-42:/layout/item_probability.xml"
+    },
+    {
+        "merged": "org.tensorflow.lite.examples.audio.app-debug-40:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "org.tensorflow.lite.examples.audio.app-main-42:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "org.tensorflow.lite.examples.audio.app-debug-40:/mipmap-xxxhdpi_ic_launcher_foreground.png.flat",
+        "source": "org.tensorflow.lite.examples.audio.app-main-42:/mipmap-xxxhdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "org.tensorflow.lite.examples.audio.app-debug-40:/drawable_tfl_logo.png.flat",
+        "source": "org.tensorflow.lite.examples.audio.app-main-42:/drawable/tfl_logo.png"
+    },
+    {
+        "merged": "org.tensorflow.lite.examples.audio.app-debug-40:/layout_fragment_audio.xml.flat",
+        "source": "org.tensorflow.lite.examples.audio.app-main-42:/layout/fragment_audio.xml"
+    },
+    {
+        "merged": "org.tensorflow.lite.examples.audio.app-debug-40:/drawable-v24_tfl_logo.png.flat",
+        "source": "org.tensorflow.lite.examples.audio.app-main-42:/drawable-v24/tfl_logo.png"
+    },
+    {
+        "merged": "org.tensorflow.lite.examples.audio.app-debug-40:/drawable_ic_launcher_background.xml.flat",
+        "source": "org.tensorflow.lite.examples.audio.app-main-42:/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "org.tensorflow.lite.examples.audio.app-debug-40:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "org.tensorflow.lite.examples.audio.app-main-42:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "org.tensorflow.lite.examples.audio.app-debug-40:/mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "org.tensorflow.lite.examples.audio.app-main-42:/mipmap-hdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "org.tensorflow.lite.examples.audio.app-debug-40:/mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "org.tensorflow.lite.examples.audio.app-main-42:/mipmap-mdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "org.tensorflow.lite.examples.audio.app-debug-40:/drawable_ic_minus.xml.flat",
+        "source": "org.tensorflow.lite.examples.audio.app-main-42:/drawable/ic_minus.xml"
+    },
+    {
+        "merged": "org.tensorflow.lite.examples.audio.app-debug-40:/mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "org.tensorflow.lite.examples.audio.app-main-42:/mipmap-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "org.tensorflow.lite.examples.audio.app-debug-40:/drawable_ic_plus.xml.flat",
+        "source": "org.tensorflow.lite.examples.audio.app-main-42:/drawable/ic_plus.xml"
+    }
+]
